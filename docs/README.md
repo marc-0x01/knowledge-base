@@ -3,15 +3,14 @@ publish: true
 ---
 
 
-[![](https://img.shields.io/github/contributors/marc-0x01/knowledge-base.png?style=for-the-badge)](https://github.com/marc-0x01/knowledge-base/graphs/contributors) [![](https://img.shields.io/github/stars/marc-0x01/knowledge-base.svg?style=for-the-badge)](https://github.com/marc-0x01/knowledge-base/stargazers) [![](https://img.shields.io/github/license/marc-0x01/knowledge-base.svg?style=for-the-badge)](https://github.com/marc-0x01/knowledge-base/blob/master/LICENSE.txt) [![](https://img.shields.io/badge/-Obsidian-purple.svg?style=for-the-badge&logo=obsidian)](http://www.obsidian.md) [![](https://img.shields.io/badge/-Markdown-green.svg?style=for-the-badge&logo=markdown)]()
+[![](https://img.shields.io/github/contributors/marc-0x01/knowledge-base.png?style=for-the-badge)](https://github.com/marc-0x01/knowledge-base/graphs/contributors) [![](https://img.shields.io/github/stars/marc-0x01/knowledge-base.svg?style=for-the-badge)](https://github.com/marc-0x01/knowledge-base/stargazers) [![](https://img.shields.io/github/license/marc-0x01/knowledge-base.svg?style=for-the-badge)](https://github.com/marc-0x01/knowledge-base/blob/master/LICENSE.txt) [![](https://img.shields.io/badge/-Obsidian-purple.svg?style=for-the-badge&logo=obsidian)](http://www.obsidian.md) [![](https://img.shields.io/badge/-Markdown-green.svg?style=for-the-badge&logo=markdown)](https://www.markdownguide.org/)
 
-<div align="center">
+<div style="text-align: center">
 	<a href="https://github.com/marc-0x01/knowledge-base">
 	    <img src="https://i.imgur.com/ZwyBvwR.jpeg" alt="Logo" width="160" height="160">
 	</a>
 	<h1>Knowledge Base</h1>
-	
-	<p align="center">
+	<p style="text-align: center">
 		<i>My collection of notes about tech stacks, 
 		platforms, services and more!</i>
 		<br><br>
