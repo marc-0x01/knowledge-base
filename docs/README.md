@@ -2,11 +2,33 @@
 publish: true
 ---
 
-# Knowledge Base
 
-***My collection of notes about tech stacks, platforms, services and more!***
+[![](https://img.shields.io/github/contributors/marc-0x01/knowledge-base.png?style=for-the-badge)](https://github.com/marc-0x01/knowledge-base/graphs/contributors) [![](https://img.shields.io/github/stars/marc-0x01/knowledge-base.svg?style=for-the-badge)](https://github.com/marc-0x01/knowledge-base/stargazers) [![](https://img.shields.io/github/license/marc-0x01/knowledge-base.svg?style=for-the-badge)](https://github.com/marc-0x01/knowledge-base/blob/master/LICENSE.txt) [![](https://img.shields.io/badge/-Obsidian-purple.svg?style=for-the-badge&logo=obsidian)](http://www.obsidian.md) [![](https://img.shields.io/badge/-Markdown-green.svg?style=for-the-badge&logo=markdown)]()
 
-→ A repository of tech notes extracted from my [obsidian](https://obsidian.md/) tech vault. 
+<div align="center">
+	<a href="https://github.com/marc-0x01/knowledge-base">
+	    <img src="https://i.imgur.com/ZwyBvwR.jpeg" alt="Logo" width="160" height="160">
+	</a>
+	<h1>Knowledge Base</h1>
+	
+	<p align="center">
+		<i>My collection of notes about tech stacks, </br>
+		platforms, services and more!</i>
+		</br></br>
+		<a href="https://github.com/marc-0x01/knowledge-base">Browse the files »</a>
+		</br>
+	</p>
+</div>
+
+## About
+
+A repository of tech notes extracted from my [obsidian](https://obsidian.md/) tech vault. 
+
+### Why ?
+
+* 🔮 The biggest beneficiary of you trying to help past you is future you!
+* 💡 This is my effort to [learning in public](https://www.swyx.io/learn-in-public) and produce *Learning Exhaust* as a byproduct of educating myself.
+* 🦮 As an architect: be a guide, not a guru! 
 
 ## Features
 
