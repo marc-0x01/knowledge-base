@@ -12,7 +12,7 @@ publish: true
 	<h1>Knowledge Base</h1>
 	
 	<p align="center">
-		<i>My collection of notes about tech stacks, </br>
+		<i>My collection of notes about tech stacks, 
 		platforms, services and more!</i>
 		</br></br>
 		<a href="https://github.com/marc-0x01/knowledge-base">Browse the files »</a>
