@@ -14,9 +14,9 @@ publish: true
 	<p align="center">
 		<i>My collection of notes about tech stacks, 
 		platforms, services and more!</i>
-		</br></br>
+		<br><br>
 		<a href="https://github.com/marc-0x01/knowledge-base">Browse the files »</a>
-		</br>
+		<br>
 	</p>
 </div>
 
