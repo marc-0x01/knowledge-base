@@ -1,4 +1,6 @@
 ---
+kind: README
+description: Project description and documentation
 publish: true
 ---
 
@@ -7,14 +9,14 @@ publish: true
 
 <div style="text-align: center">
 	<a href="https://github.com/marc-0x01/knowledge-base">
-	    <img src="https://i.imgur.com/ZwyBvwR.jpeg" alt="Logo" width="160" height="160">
+	    <img src="https://i.imgur.com/XZhTk1hl.png" alt="Logo" width="440" height="220">
 	</a>
 	<h1>Knowledge Base</h1>
 	<p style="text-align: center">
 		<i>My collection of notes about tech stacks, 
 		platforms, services and more!</i>
 		<br><br>
-		<a href="https://github.com/marc-0x01/knowledge-base">Browse the files »</a>
+		<a href="./INDEX.md">Browse the files »</a>
 		<br>
 	</p>
 </div>
