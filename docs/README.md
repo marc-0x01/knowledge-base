@@ -7,9 +7,9 @@ publish: true
 
 <div style="text-align: center"  align="center">
   <!-- Repository statistics-->
-  <a href="https://github.com/marc-0x01/dotfiles/graphs/contributors"><img src="https://img.shields.io/github/contributors/marc-0x01/dotfiles.png?style=for-the-badge" alt="https://img.shields.io/github/contributors/marc-0x01/dotfiles"></a>
-  <a href="https://github.com/marc-0x01/dotfiles/stargazers"><img src="https://img.shields.io/github/stars/marc-0x01/dotfiles.svg?style=for-the-badge" alt="https://img.shields.io/github/stars/marc-0x01/dotfiles"></a>
-  <a href="https://github.com/marc-0x01/dotfiles/blob/master/LICENSE.txt"><img src="https://img.shields.io/github/license/marc-0x01/dotfiles.svg?style=for-the-badge" alt="https://img.shields.io/github/license/marc-0x01/dotfiles"></a>
+  <a href="https://github.com/marc-0x01/knowledge-base/graphs/contributors"><img src="https://img.shields.io/github/contributors/marc-0x01/knowledge-base.png?style=for-the-badge" alt="https://img.shields.io/github/contributors/marc-0x01/knowledge-base"></a>
+  <a href="https://github.com/marc-0x01/knowledge-base/stargazers"><img src="https://img.shields.io/github/stars/marc-0x01/knowledge-base.svg?style=for-the-badge" alt="https://img.shields.io/github/stars/marc-0x01/knowledge-base"></a>
+  <a href="https://github.com/marc-0x01/knowledge-base/blob/master/LICENSE"><img src="https://img.shields.io/github/license/marc-0x01/knowledge-base.svg?style=for-the-badge" alt="https://img.shields.io/github/license/marc-0x01/knowledge-base"></a>
   <!-- Main Technologies -->
   <a href="http://www.obsidian.md"><img src="https://img.shields.io/badge/-Obsidian-purple.svg?style=for-the-badge&logo=obsidian" alt="https://img.shields.io/badge/-Obsidian-purple"></a>
   <a href="https://www.markdownguide.org/"><img src="https://img.shields.io/badge/-Markdown-green.svg?style=for-the-badge&logo=markdown" alt="https://img.shields.io/badge/-Markdown-green"></a>
